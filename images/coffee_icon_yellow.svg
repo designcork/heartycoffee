@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="166.194" height="184" viewBox="0 0 166.194 184">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffb703;
+        stroke: #ffb703;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linejoin: round;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: #8ecae6;
+        stroke: #8ecae6;
+      }
+    </style>
+  </defs>
+  <g id="Coffee_icon_Alt_-_yellow" data-name="Coffee icon Alt - yellow" transform="translate(-1164.5 -430.5)">
+    <path id="Path_2" data-name="Path 2" class="cls-1" d="M2374.8,552.594h74.4L2474,410H2350Z" transform="translate(-1164.401 59.406)"/>
+    <path id="Path_3" data-name="Path 3" class="cls-2" d="M2380,464.8l12.4-24.8h136.395l12.4,24.8Z" transform="translate(-1213 2.127)"/>
+    <path id="Path_4" data-name="Path 4" class="cls-2" d="M2380,458.254,2389.127,440h100.4l9.127,18.254Z" transform="translate(-1191.921 -7)"/>
+  </g>
+</svg>
